@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 branch
 branch --no-ff
+Git create branch is quick & simple.
